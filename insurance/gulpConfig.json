@@ -1,0 +1,8 @@
+{
+  "src": "index/",
+  "dest": "H5/index/",
+  "libPath": "index/lib/",
+  "testDataPath": "index/js/modules/",
+  "androidZipPath": "E:\\Workspaces\\Android\\mplayer_payh\\assets\\",
+  "tempPath": "index_temp/"
+}
